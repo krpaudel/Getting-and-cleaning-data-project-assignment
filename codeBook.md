@@ -1,4 +1,5 @@
-#Designate working directory to the one in which downloaded data was unzipped. In my pc it is,
+I am have put command instructios as well. It looks similar to my .R file but servers purpose of codebook as well since I have put down all the instructions/comments along with the codes. 
+1.Designate working directory to the one in which downloaded data was unzipped. In my pc it is,
 setwd("~/DATA-SCIENCE/Course 3- Getting and cleaning data/data/getdata-projectfiles-UCI HAR Dataset/UCI HAR Dataset")
 #Cleaning workspace:
 rm(list=ls())
